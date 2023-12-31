@@ -17,6 +17,8 @@
   <b>🌐 Arkane: WorldWide :</b> En tant que Main Developer et fondateur, je joue un rôle essentiel dans le développement de projets passionnants sur la plateforme FiveM. En tant que Lead de la Technical Team, je supervise et dirige une équipe talentueuse pour créer des expériences de jeu uniques et innovantes.
 </p>
 
+---
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="Lua" width="40" height="40"/>
@@ -25,6 +27,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Another Cat Animation" width="200"/>
+  <img src="https://media.tenor.com/ATBSc27xY3oAAAAi/neon-cat-cat.gif" alt="Another Cat Animation" width="200"/>
 </p>
