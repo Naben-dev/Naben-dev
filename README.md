@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="[https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://img.icons8.com/color/48/000000/discord-logo.png)" alt="Discord JS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord JS" width="40" height="40"/>
 </p>
 
 ---
