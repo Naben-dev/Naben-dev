@@ -30,5 +30,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/ATBSc27xY3oAAAAi/neon-cat-cat.gif" alt="Another Cat Animation" width="200"/>
+  <img src="https://media.tenor.com/ATBSc27xY3oAAAAi/neon-cat-cat.gif" alt="Neon Cat" width="100%">
 </p>
