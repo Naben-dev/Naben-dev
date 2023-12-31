@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>🚀 Projets actuels :</b> En parallèle, je travaille sur différents projets passionnants disponibles sur ma boutique <a href="https://naben-dev.tebex.io/">Tebex</a>.
+  <b>🚀 Projets actuels :</b> En parallèle, je travaille sur différents projets personnels disponibles sur ma boutique <a href="https://naben-dev.tebex.io/">Tebex</a>.
 </p>
 
 ---
