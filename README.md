@@ -7,15 +7,13 @@
   <a href="https://naben-dev.tebex.io/"><img src="https://img.shields.io/badge/Tebex-Shop-green?style=for-the-badge&logo=tebex" alt="Tebex"></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Animation" width="200"/>
-</p>
-
 ---
 
+<p align="center">
 🔭 **Travail en cours :** Je suis le développeur principal, fondateur et chef de l'équipe technique sur [Arkane: WorldWide](https://arkane-worldwide.com).
 
 🌐 **Arkane: WorldWide :** En tant que Main Developer et fondateur, je joue un rôle essentiel dans le développement de projets passionnants sur la plateforme FiveM. En tant que Lead de la Technical Team, je supervise et dirige une équipe talentueuse pour créer des expériences de jeu uniques et innovantes.
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
