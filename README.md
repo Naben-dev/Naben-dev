@@ -10,11 +10,11 @@
 ---
 
 <p align="center">
-  <b>🔭 Travail en cours :</b> Je suis le développeur principal, fondateur et chef de l'équipe technique sur <a href="https://arkane-worldwide.com">Arkane: WorldWide</a>.
+  <b>🌐 Arkane: WorldWide :</b> Actuellement, je contribue activement en tant que Technical Leader sur <a href="https://arkane-worldwide.com">Arkane: WorldWide</a>.
 </p>
 
 <p align="center">
-  <b>🌐 Arkane: WorldWide :</b> En tant que Main Developer et fondateur, je joue un rôle essentiel dans le développement de projets passionnants sur la plateforme FiveM. En tant que Lead de la Technical Team, je supervise et dirige une équipe talentueuse pour créer des expériences de jeu uniques et innovantes.
+  <b>🚀 Projets actuels :</b> En parallèle, je travaille sur différents projets passionnants disponibles sur ma boutique <a href="https://naben-dev.tebex.io/">Tebex</a>.
 </p>
 
 ---
