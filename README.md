@@ -10,13 +10,15 @@
 ---
 
 <p align="center">
-🔭 **Travail en cours :** Je suis le développeur principal, fondateur et chef de l'équipe technique sur [Arkane: WorldWide](https://arkane-worldwide.com).
-
-🌐 **Arkane: WorldWide :** En tant que Main Developer et fondateur, je joue un rôle essentiel dans le développement de projets passionnants sur la plateforme FiveM. En tant que Lead de la Technical Team, je supervise et dirige une équipe talentueuse pour créer des expériences de jeu uniques et innovantes.
+  <b>🔭 Travail en cours :</b> Je suis le développeur principal, fondateur et chef de l'équipe technique sur <a href="https://arkane-worldwide.com">Arkane: WorldWide</a>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
+  <b>🌐 Arkane: WorldWide :</b> En tant que Main Developer et fondateur, je joue un rôle essentiel dans le développement de projets passionnants sur la plateforme FiveM. En tant que Lead de la Technical Team, je supervise et dirige une équipe talentueuse pour créer des expériences de jeu uniques et innovantes.
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="Lua" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
