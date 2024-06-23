@@ -17,9 +17,6 @@
   <b>🚀 Projets actuels :</b> En parallèle, je travaille sur différents projets personnels disponibles sur ma boutique <a href="https://naben-dev.tebex.io/">Tebex</a>.
 </p>
 
-https://github.com/Naben-dev/Naben-dev/assets/76815289/c6ee651d-b630-48ae-acc3-2a12a69cf7e6
-
-
 
 ---
 
@@ -46,7 +43,4 @@ https://github.com/Naben-dev/Naben-dev/assets/76815289/c6ee651d-b630-48ae-acc3-2
                                             ██║ ╚████║██║  ██║██████╔╝███████╗██║ ╚████║
                                             ╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝
 ```
-
-
-https://github.com/Naben-dev/Naben-dev/assets/76815289/f21d95c8-3676-4db6-b12f-4afc1d5edb8e
 
