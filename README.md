@@ -10,11 +10,11 @@
 ---
 
 <p align="center">
-  <b>🌐 Arkane: WorldWide :</b> Actuellement, je contribue activement en tant que Technical Leader sur <a href="https://arkane-worldwide.com">Arkane: WorldWide</a>.
+  <b>🌐 Arkane: WorldWide :</b> Actuellement Technical Leader sur <a href="https://arkane-worldwide.com">Arkane: WorldWide</a>.
 </p>
 
 <p align="center">
-  <b>🚀 Projets actuels :</b> En parallèle, je travaille sur différents projets personnels disponibles sur ma boutique <a href="https://naben-dev.tebex.io/">Tebex</a>.
+  <b>🚀 Projets actuels :</b> En parallèle sur d'autres projets personnels disponibles sur ma boutique <a href="https://naben-dev.tebex.io/">Tebex</a>.
 </p>
 
 
