@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, je suis Naben</h1>
-<h3 align="center">Développeur FiveM et SysAdmin passionné</h3>
+<h1 align="center">Naben</h1>
+<h3 align="center">Développeur FiveM et SysAdmin</h3>
 
 <p align="center">
   <a href="https://discord.gg/jVPyCuVENj"><img src="https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord" alt="Discord"></a>
